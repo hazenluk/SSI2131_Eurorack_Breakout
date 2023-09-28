@@ -1,0 +1,38 @@
+TPS7A39: https://jlcpcb.com/partdetail/TexasInstruments-TPS7A3901DSCR/C2685819
+
+10u: https://jlcpcb.com/partdetail/97651-CL10A106MA8NRNC/C96446
+10n: https://jlcpcb.com/partdetail/15869-CL05B103KB5NNNC/C15195
+100n: https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525
+3.9n: https://jlcpcb.com/partdetail/408031-GRM1885C1H392JA01D/C415537
+470p: https://jlcpcb.com/partdetail/MurataElectronics-GRM1555C1H471JA01D/C76971
+
+schottky: https://jlcpcb.com/partdetail/GuangdongHottech-1N5819WS/C191023
+
+IDC conn: https://jlcpcb.com/partdetail/Mintron-MTB1010M/C2843214
+
+32.4k: https://jlcpcb.com/partdetail/Yageo-RT0603BRD0732K4L/C861323
+10k (vreg): https://jlcpcb.com/partdetail/Panasonic-ERA3AEB103V/C190610
+42.2k: https://jlcpcb.com/partdetail/Yageo-RT0402BRD0742K2L/C852782
+
+0402 Reg resistor alternates: (honestly, tolerance doesn't matter much for this app)
+10k: https://jlcpcb.com/partdetail/Resi-PTFR0402B10K0P9/C2692697
+42.2k: https://jlcpcb.com/partdetail/Yageo-RT0402BRD0742K2L/C852782
+
+1.2k: https://jlcpcb.com/partdetail/26605-0402WGF1201TCE/C25862
+12k: https://jlcpcb.com/partdetail/26495-0402WGF1202TCE/C25752
+11k: https://jlcpcb.com/partdetail/26693-0603WAF1102T5E/C25950
+3k: https://jlcpcb.com/partdetail/4618-0603WAF3001T5E/C4211
+10k: https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744
+49.9k: https://jlcpcb.com/partdetail/26640-0402WGF4992TCE/C25897
+267k: https://jlcpcb.com/partdetail/260002-0402WGF2673TCE/C270622
+267: https://jlcpcb.com/partdetail/Yageo-AC0402FR07267RL/C226381
+499k: https://jlcpcb.com/partdetail/Yageo-RC0402FR07499KL/C137971
+22.1k (22k): https://jlcpcb.com/partdetail/26511-0402WGF2202TCE/C25768
+15k: https://jlcpcb.com/partdetail/26499-0402WGF1502TCE/C25756
+1k: https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702
+100k: https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741
+
+5K trim: C81349
+
+LM4040: https://jlcpcb.com/partdetail/TexasInstruments-LM4040BIM3_2_5NOPB/C131939
+TL074: https://jlcpcb.com/partdetail/TexasInstruments-TL074CPWR/C96507
